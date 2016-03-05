@@ -1,0 +1,18 @@
+{
+  "name": "testable nodejs components",
+  "version": "1.0.0",
+  "description": "Node v5 experimentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kevin Delemme <kdelemme@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.4.5"
+  }
+}
